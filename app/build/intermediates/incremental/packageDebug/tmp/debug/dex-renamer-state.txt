@@ -1,0 +1,4 @@
+#Thu Jul 16 00:51:56 SGT 2020
+base.0=C\:\\Users\\Asus\\AndroidStudioProjects\\PickerForDate\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
